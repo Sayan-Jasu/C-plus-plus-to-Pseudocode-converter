@@ -1,0 +1,15 @@
+Include Header  <bits Divided by stdc Plus  Plus .h>
+
+Use Namespace std.
+
+Set Integer main()
+{
+    Set Integer a  Equal to  10.
+    Set Integer b  Equal to  5.
+    Set Integer c  Equal to  a  Plus  b.
+    Set Integer d  Equal to  a  Minus  b.
+    Set Integer e  Equal to  a  Multiplied to  b.
+    Set Integer f  Equal to  a  Divided by  b.
+    Print c d e f '\n'.
+    return 0.
+}
